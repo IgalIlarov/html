@@ -1,0 +1,53 @@
+body{
+	background: url(https://images.unsplash.com/photo-1547628641-ec2098bb5812?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80);
+	background-size:100% 100%;	
+}
+
+.HeadPage{
+	font-size: 30px;
+	font-family: Comic Sans MS;
+	color: Indigo;
+}
+
+.PageNames{
+	font-size: 40px;
+	font-family: Comic Sans MS;
+	color: black;
+}
+
+.img{
+	width: 300;
+	height: 300;
+}
+
+.FontsizeA{
+	font-size: 30px;
+}
+
+.FontsizeB{
+	font-size: 25px;
+}
+
+.color{
+	color: black;
+}
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.CheckImg{
+	width: 15;
+	height: 15;
+}
+
+#skills{
+	font-size: 25px;
+	font-family: Comic Sans MS;
+	color: black;
+}
+
+.linkImage{
+	width: 250;
+	height: 250;
+}
